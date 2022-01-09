@@ -1,0 +1,1 @@
+python /Users/puyuandong613/Downloads/作业三材料/Flappybird-pytorch/dqn.py train
